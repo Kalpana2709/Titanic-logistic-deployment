@@ -9,4 +9,4 @@ This project implements logistic regression on the Titanic dataset to predict pa
 - Streamlit app deployment
 
 **Live App**: https://titanic-logistic-deployment-cb6wk6teqbjyiyneyidj74.streamlit.app/
-**Notebook**: `LOGISTIC REGRESSION.ipynb`
+**Notebook**: `LOGISTIC_REGRESSION.ipynb`
